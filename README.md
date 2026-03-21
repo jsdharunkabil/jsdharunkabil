@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Dharun 👋
 
-<!--
-**jsdharunkabil/jsdharunkabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Frontend Developer -> Moving towards Full stack Development from India 🇮🇳
+Passionate about building clean UI React applications and integrate APIs with backend systems.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming/ Backend:
+* Java
+* Python
+* REST APIs
+* JSON Handling
+
+Frontend:
+* React.js
+* JavaScript
+* HTML
+* CSS
+
+Database:
+* SQL/MySQL
+* Database design
+* CRUD operations
+
+Tools:
+* Git & GitHub
+* VS Code
+* IntelliJ
+* Postman
+
+## 📌 Projects
+
+* Portfolio Website (HTML + CSS)
+* UI Dahboard (React API based Web app)
+* API Data Fetcher & Processor
+* Data Migration & API Integration Tool
+
+## 📚 Currently Learning
+
+* Backend Development
+* API Integration & Design
+* Full Stack Project Architecture
+* Authentication Systems
+
+## 🎯 Goal
+
+To become a Software (or) Full Stack Developer and build scalable real world applications
+
+## 📫 Contact
+
+* GitHub: https://github.com/jsdharunkabil
