@@ -48,7 +48,7 @@ To become a Software (or) Full Stack Developer and build scalable real world app
 
 ## 📫 Contact
 
-* Email: jsdharunkabil99@gmail.com
+* Email: jsdharunkabil@gmail.com
 * GitHub: https://github.com/jsdharunkabil
 * *Linkedin: https://linkedin.in/dharunkabil25
   
